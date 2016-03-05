@@ -2,6 +2,7 @@ name: proto.chat
 favicon: null
 layout_spectrum: 0.8164915633387864
 typography_spectrum: 0.8465654440224171
+title: Early stage technology chatter
 cta:
   domain: null
   bucket: null
