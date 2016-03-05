@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Early stage technology chatter]]></title>
+        <description><![CDATA[Early stage technology chatter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 14:32:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>As this site is born, it seems only apt to greet the world in traditional vernacular.
+
+I’ve been meaning to create a place like this for a while, and the current increased velocity at which products I’m interested in are shipping has pushed me over the edge. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dce80191460fcc7b7d69c2b4358cf0461222ff2b.jpg"></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">4ea1ca24-588b-486b-8f38-344683cc13f7</guid>
+            <pubDate>Sat, 05 Mar 2016 14:31:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
