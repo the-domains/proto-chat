@@ -1,7 +1,7 @@
 name: proto.chat
 favicon: null
 layout_spectrum: 0.64925
-typography_spectrum: 0.87729
+typography_spectrum: 0.88582
 title: Early stage technology chatter
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#3f485b'
+    - '#6087cc'
+    - '#e7f4fa'
+    - '#cdcbd6'
+    - '#b2adb2'
   brandStrength: 0.3749876720830798
   lightness: 0.33221752173267305
   saturation: 0.6574757965281606
